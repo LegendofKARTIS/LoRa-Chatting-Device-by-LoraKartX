@@ -6,4 +6,8 @@ Some Images of the project:
 
 <img width="1450" height="787" alt="Photo 1" src="https://github.com/user-attachments/assets/0f676325-832c-4d70-91ba-d784a611a83f" />
 
+Circuit Diagram
 <img width="3000" height="2833" alt="circuit_image" src="https://github.com/user-attachments/assets/2e5763a8-3249-4e99-92cc-99ce5c76977e" />
+
+Full video on YouTube:
+(What? it is still under construction... So let's wait)
