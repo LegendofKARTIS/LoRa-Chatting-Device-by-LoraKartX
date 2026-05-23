@@ -10,5 +10,4 @@ Circuit Diagram
 <img width="3000" height="2833" alt="circuit_image" src="https://github.com/user-attachments/assets/2e5763a8-3249-4e99-92cc-99ce5c76977e" />
 
 Full video on YouTube:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/crVj4-N1Fiw?si=DRAIk8ir5RZYjFcp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/crVj4-N1Fiw
