@@ -11,4 +11,4 @@ Circuit Diagram
 
 Full video on YouTube:
 https://youtu.be/crVj4-N1Fiw
-<a=https://youtu.be/crVj4-N1Fiw><img width="960" height="540" alt="Chat Device - Lora 2" src="https://github.com/user-attachments/assets/c3c8c49b-c5c0-473e-af97-360df7cf8a10" /></a>
+<a href="https://youtu.be/crVj4-N1Fiw"> <img width="960" height="540" alt="Chat Device - Lora 2" src="https://github.com/user-attachments/assets/c3c8c49b-c5c0-473e-af97-360df7cf8a10" /></a>
